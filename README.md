@@ -12,6 +12,6 @@ I translated the texts for fun!
 NB: Due to limitations or for other reasons, i haven't translated some lines of text,
 keeping it unchanged.
 
-## CREDITI/CREDITS
+## CREDITS
 I credit Nintendo (©Nintendo 1985) for the original game.
 I also credit Nintendo (©Nintendo 1985) for everything unchanged in this hack.
